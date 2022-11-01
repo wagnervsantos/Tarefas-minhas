@@ -112,7 +112,7 @@ export default function Admin(){
     }
     return(
         <div className='admin-container'>
-            <h1>Minas Tarefas</h1>
+            <h1>Minhas Tarefas</h1>
 
             <form className='form' onSubmit={handleRegister}>
             <textarea
